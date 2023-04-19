@@ -1,20 +1,29 @@
-### Olá! Eu sou Tereza Oliveira 👋
+<h2> Fala galera! Meu nome é <strong>Tereza Oliveira</strong>. 
 
-- Sou professora e desenvolvedora de software. :computer:
+<h4>Sou desenvolvedora de software e atuo como professora para devs iniciantes, na stack back-end. Minha formação deu início como administradora de empresas, professora e educadora social, em 2020 iniciei a transição de carreira para a área tecnológica.<h4>
+      
+  
+<h3> 💻 Quem sou eu:</h3> 
+      
+- ☕ 🖋️ &nbsp; <strong>Amo café, escrever e ensinar</strong>  
+- :books: &nbsp; <strong>Clean code - Robert Cecil Martin</strong>
+- 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
+- 🎓 &nbsp; <strong>FOCCA - Bacharel em Administração e MBA Gestão estratégica de pessoas</strong>
+- :computer: &nbsp; <strong>Estudando constantemente melhores práticas de programação e novas tecnologias</strong>
 
+<h3>:atom: Competências Técnicas: </h3>
+
+- 💻 &nbsp; <strong>Javascript e Node.js</strong>
+- 🌐 &nbsp; <strong>Stack Back-End (Desenvolvimento Web)</strong>
+- 🛢 &nbsp; <strong>MongoDb</strong>
+- 🔧 &nbsp; <strong>Git</strong>
+
+
+  </br>
 <div align="center">
+<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Tereza25"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tereza25&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
-
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-
-</div>
-
+  
 *************
 **Contador De Visitas**
 
